@@ -14,7 +14,7 @@ This project simulates various social engineering attacks to test how susceptibl
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Social-Engineering-Simulation.git
+   git clone https://github.com/alimonzer236/Social-Engineering-Simulation.git
    cd Social-Engineering-Simulation
    pip install -r requirements.txt
    python src/simulation.py
